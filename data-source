@@ -1,0 +1,7 @@
+db_url=jdbc:mysql://localhost:3306/microservice
+
+db_username=root
+
+db_password=ambisql1234%
+
+serviceUrl=http://localhost:8080
